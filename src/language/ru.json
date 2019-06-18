@@ -1,0 +1,29 @@
+{
+  "navbar.main": "Главная",
+  "login.page": "Вход",
+  "navbar.login": "Войти",
+  "navbar.register": "Зарегистрироваться",
+  "navbar.register1": "Регистрация",
+  "navbar.logout": "Выйти",
+  "navbar.search": "Искать",
+  "navbar.name": "Имя",
+  "navbar.password": "Пароль",
+  "navbar.email": "Почта",
+  "setting": "Настройки",
+  "white-fon": "Белый фон",
+  "grey-fon": "Темный фон",
+  "profile": "Профиль",
+  "admin": "Админ",
+  "showUser": "Показать всех пользователей",
+  "deleteUser": "Удалить пользователя",
+  "blockUser": "Заблокировать пользователя",
+  "addAdmin": "Сделать админом",
+  "accountActive": "Аккаунт не активирован!",
+  "adminStatus": "Админ статус:",
+  "name": "Имя:",
+  "email": "Почта:",
+  "status": "Статус:"
+
+
+
+}

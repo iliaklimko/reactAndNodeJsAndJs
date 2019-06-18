@@ -1,0 +1,44 @@
+
+
+.footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+}
+
+body {
+    background: white;
+    color: black;
+}
+
+.Glav{
+    position:relative;
+    padding-right: 250px;
+
+}
+.Search{
+    max-width: 100%;
+    padding-top : 15px;
+    padding-right: 45px;
+
+}
+.vxod{
+max-width: 100%;
+    display: inline-block;
+
+}
+.reg{
+    max-width: 100%;
+
+}
+
+.ru{
+    max-width: 100%;
+
+}
+.en {
+    max-width: 100%;
+}
+

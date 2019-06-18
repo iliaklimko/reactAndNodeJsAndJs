@@ -1,0 +1,57 @@
+.main_user {
+    background-color: darkgrey;
+   margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.main_user:hover {
+    background-color: #DCDCDC;
+}
+
+.active_user {
+    background-color: #DCDCDC;
+ }
+
+.cursor {
+    cursor: pointer;
+}
+
+.name {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.email{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.status{
+    margin-right: 5px;
+    margin-left: 5px;
+
+}
+.statusAdmin{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.delete {
+    background-color: crimson;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.block_user {
+    background-color: darkmagenta;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.admin_add {
+    background-color: aqua;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.table_users {
+    background-color: greenyellow;
+}
